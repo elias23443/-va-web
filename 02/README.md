@@ -1,12 +1,15 @@
-## Tema_do_Vídeo 
 
-[Título_do_Vídeo](Link_do_Vídeo)
+
+## Tema do Vídeo
+
+[Começa aqui o novo @CursoemVideo de HTML5 e CSS3 ]
+Link:(https://youtu.be/Ejkb_YpuHWs)
 
 ### O que aprendi?
 
-Coloque aqui o texto do que você aprendeu. Pode ser em tópicos. Ex.: 
 
- - Primeiro Ponto
- - Segundo Ponto
- - Terceiro Ponto
- - ...etc. 
+* Conteúdo do Curso:O curso é uma versão revitalizada e atualizada de HTML5 e CSS3.
+* Professor:O professor é Gustavo Guanabara, criador do canal Curso em Vídeo.
+
+
+
