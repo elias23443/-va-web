@@ -1,10 +1,16 @@
 ## Tema do Vídeo
 
-[Começa aqui o novo @CursoemVideo de HTML5 e CSS3 ]
-Link:(https://youtu.be/Ejkb_YpuHWs)
+[Será que este curso é para mim? - @Curso em Vídeo HTML5 e CSS3]
+Link:(https://youtu.be/57wyfS560Uk)
 
 ### O que aprendi?
 
+ Entendi que esse vídeo é para ajudar quem está na dúvida se o curso de HTML5 e CSS3 é adequado para iniciantes.
+O professor explicou que o curso não exige nenhum conhecimento prévio em programação, sendo ideal para quem está começando do zero.
 
-* Conteúdo do Curso:O curso é uma versão revitalizada e atualizada de HTML5 e CSS3.
-* Professor:O professor é Gustavo Guanabara, criador do canal Curso em Vídeo.
+O professor destacou que o foco principal é aprender na prática, acompanhando as aulas e fazendo os exercícios.O vídeo também mostrou que o curso é dividido em módulos, começando pelo básico e avançando passo a passo.
+Aprendi que o curso é recomendado para quem quer criar sites e entender melhor como funciona a construção de páginas na web.
+O professor reforçou que o certificado é um bônus, e o mais importante é realmente entender o conteúdo e aplicar o que aprender.
+
+
+

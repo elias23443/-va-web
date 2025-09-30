@@ -2,8 +2,8 @@
 
 ## Tema do Vídeo
 
-[Começa aqui o novo @CursoemVideo de HTML5 e CSS3 ]
-Link:(https://youtu.be/Ejkb_YpuHWs)
+[O que vamos aprender no módulo 01? - @Curso em Vídeo HTML5 + CSS3]
+Link:(https://youtu.be/jgQjeqGRdgA)
 
 ### O que aprendi?
 * Explicação sobre o que será abordado no módulo inicial.
